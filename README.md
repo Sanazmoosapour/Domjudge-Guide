@@ -124,5 +124,3 @@ Participants can now access the contest and start submitting solutions.
 * Make sure Docker is installed before starting
 
 ---
-
-بگو چه استایلی می‌خوای، همون‌جوری تیونش می‌کنم 👌
